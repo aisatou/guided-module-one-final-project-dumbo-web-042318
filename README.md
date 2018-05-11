@@ -1,4 +1,4 @@
-# Module One Project 
+# Module One Project
 
 Congratulations, you're at the end of module one! You've worked crazy hard to get here and have learned a ton.
 
@@ -215,3 +215,75 @@ Now, add this method to the run method, and pass it the lines we got in the ```f
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/guided-module-one-final-project'>Guided Module One Final Project</a> on Learn.co and start learning to code for free.</p>
+
+
+
+
+
+
+
+
+# PLEASE ENTER THEIR FIRST AND LAST NAME IS STUCK IN A LOOP
+# arr = []
+# name_input = gets.chomp.capitalize
+# arr << name_input
+# puts "Do you have any more guests you want to invite to your event? (Y/N)"
+# answer = gets.chomp
+# while name_input != "N"
+#   # end or restart
+# if name_input = "Y"
+#   # get name and insert
+#   puts "Please enter their first and last name."
+# elsif name_input != "Y"
+#     puts "Please enter Y or N."
+#   end
+#   # see if they want to add more
+#   # puts "Do you have any more guests you want to invite to your event? (Y/N)"
+#   name_input = gets.chomp
+# end
+#   # get name and insert
+# puts "You have invited #{event.arr}"
+
+
+
+# UNDEFINED METHOD ARR
+#   arr = []
+#   name_input = gets.chomp.capitalize
+#   arr << name_input
+#   puts "Do you have any more guests you want to invite to your event? (Y/N)"
+#   answer = gets.chomp
+#   while name_input != "N"
+#     if answer == "Y"
+#       puts "Please enter their first name and last name."
+#     elsif
+#       puts "Please enter Y or N."
+#     else answer == "N"
+#       answer = gets.chomp
+#       puts "Do you have any more guests you want to invite to your event? (Y/N)"
+#       name_input = gets.chomp
+#     end
+#     # get name and insert
+#   puts "You have invited #{event.arr}"
+# end
+
+
+
+
+# HAS TONS OF SPACES AND ISNT ANSWERING Y OR N
+# arr = []
+# name_input = gets.chomp.capitalize
+# arr << name_input
+# while name_input != "N"
+#   name_input = gets.chomp
+#   answer = gets.chomp
+#   puts "Do you have any more guests you want to invite to your event? (Y/N)"
+#     if answer == "Y"
+#     puts "Please enter their first name and last name."
+#   elsif
+#     puts "Please enter Y or N."
+#   else answer == "N"
+#     answer = gets.chomp
+#     # attendees = gets.chomp
+#     end
+#   end
+#   puts "You have invited #{arr}"
